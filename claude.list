@@ -1,8 +1,8 @@
 # > Claude
 USER-AGENT,Claude,Claude
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,anthropic
+DOMAIN,cdn.usefathom.com,Claude
+DOMAIN-SUFFIX,claude.ai,Claude
+DOMAIN-SUFFIX,anthropic.com,Claude
+DOMAIN-SUFFIX,intercomcdn.com,Claude
+DOMAIN-KEYWORD,claude,Claude
+DOMAIN-KEYWORD,anthropic,Claude
