@@ -1,10 +1,5 @@
-# NAME: Claude
-# AUTHOR: arcthur
-# UPDATED: 2023-07-12
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 3
-# TOTAL: 6
+# > ChatGPT
+USER-AGENT,ChatGPT,ChatGPT
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
