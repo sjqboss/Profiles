@@ -1,14 +1,14 @@
 # Mytvsuper
 #PROCESS-NAME,Mytvsuper.exe
 #IP FROM https://ipinfo.io/AS9253
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvbartistblog.com.hk
-DOMAIN-SUFFIX,tvbartisteblog.com
-DOMAIN-SUFFIX,tvbartistblog.cn
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvbcharity.org
-DOMAIN-SUFFIX,tvbmusic.com.hk
-DOMAIN-SUFFIX,tvb.com.cn
+DOMAIN-SUFFIX,tvb.com,Mytvsuper
+DOMAIN-SUFFIX,tvbartistblog.com.hk,Mytvsuper
+DOMAIN-SUFFIX,tvbartisteblog.com,Mytvsuper
+DOMAIN-SUFFIX,tvbartistblog.cn,Mytvsuper
+DOMAIN-SUFFIX,mytvsuper.com,Mytvsuper
+DOMAIN-SUFFIX,tvbcharity.org,Mytvsuper
+DOMAIN-SUFFIX,tvbmusic.com.hk,Mytvsuper
+DOMAIN-SUFFIX,tvb.com.cn,Mytvsuper
 IP-CIDR,103.84.220.0/22,no-resolve
 IP-CIDR,103.84.222.0/24,no-resolve
 IP-CIDR,202.126.48.0/20,no-resolve
