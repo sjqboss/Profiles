@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,invoice.stripe.com,ChatGPT
 DOMAIN-SUFFIX,stripe.com,ChatGPT
 DOMAIN-SUFFIX,poe.com,ChatGPT
 DOMAIN-SUFFIX,bard.google.com,ChatGPT
+DOMAIN-SUFFIX,oaistatic.com,ChatGPT
+DOMAIN-SUFFIX,oaiusercontent.com,ChatGPT
