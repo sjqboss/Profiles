@@ -1,3 +1,4 @@
+#docker搭建resilio sync
 docker run -d \
   --name=resilio-sync \
   -e PUID=1000 \
