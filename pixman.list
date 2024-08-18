@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,gitv.tv,pixman
 DOMAIN-SUFFIX,cctv.cn,pixman
 DOMAIN-SUFFIX,yangshipin.cn,pixman
 DOMAIN-SUFFIX,gcable.cn,pixman
+DOMAIN,beesport.livednow.com,pixman
 IP-CIDR,183.206.0.0/15,pixman,no-resolve
 IP-CIDR,223.5.5.5/32,pixman,no-resolve
 IP-CIDR,27.36.0.0/14,pixman,no-resolve
