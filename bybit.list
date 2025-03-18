@@ -1,7 +1,7 @@
 # bybit
 HOST,bybit-exchange.github.io,bybit
 HOST,app-measurement.com,bybit
-HOST-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+HOST-SUFFIX,monitor-frontend-collector.a.bybit-aws.com,bybit
 HOST-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com,bybit
 HOST-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de,bybit
 HOST-SUFFIX,amazon.com,bybit
