@@ -1,6 +1,6 @@
 # > Apple Push
-USER-AGENT,Apple Push
-DOMAIN-SUFFIX,push.apple.com,Apple Push
-DOMAIN-SUFFIX,gateway.push.apple.com,Apple Push
-DOMAIN-SUFFIX,api.push.apple.com,Apple Push
-DOMAIN-SUFFIX,sandbox.push.apple.com,Apple Push
+USER-AGENT,ApplePush
+DOMAIN-SUFFIX,push.apple.com,ApplePush
+DOMAIN-SUFFIX,gateway.push.apple.com,ApplePush
+DOMAIN-SUFFIX,api.push.apple.com,ApplePush
+DOMAIN-SUFFIX,sandbox.push.apple.com,ApplePush
