@@ -1,5 +1,4 @@
 # > Apple Push
-USER-AGENT,applePush,applePush
 DOMAIN-SUFFIX,push.apple.com,applePush
 DOMAIN-SUFFIX,gateway.push.apple.com,applePush
 DOMAIN-SUFFIX,api.push.apple.com,applePush
