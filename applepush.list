@@ -1,0 +1,5 @@
+# > apple push
+push.apple.com DOMAIN-SUFFIX,apple push
+gateway.push.apple.com DOMAIN-SUFFIX,apple push
+api.push.apple.com DOMAIN-SUFFIX,apple push
+sandbox.push.apple.com DOMAIN-SUFFIX,apple push
