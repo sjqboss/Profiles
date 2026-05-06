@@ -1,5 +1,5 @@
-# > Apple Push
-DOMAIN-SUFFIX,push.apple.com,applePush
-DOMAIN-SUFFIX,gateway.push.apple.com,applePush
-DOMAIN-SUFFIX,api.push.apple.com,applePush
-DOMAIN-SUFFIX,sandbox.push.apple.com,applePush
+# > Applepush
+DOMAIN-SUFFIX,push.apple.com,ApplePush
+DOMAIN-SUFFIX,gateway.push.apple.com,ApplePush
+DOMAIN-SUFFIX,api.push.apple.com,ApplePush
+DOMAIN-SUFFIX,sandbox.push.apple.com,ApplePush
